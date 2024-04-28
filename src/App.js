@@ -19,7 +19,6 @@ export default function Board() {
     </> 
   );
 }
-
 function Square({value})
 {
   function handleClick()
