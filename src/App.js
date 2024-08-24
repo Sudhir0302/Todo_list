@@ -184,7 +184,7 @@ function Todo()
    }
    return(
     <main>
-      <header>TODO LIST</header>
+      <header>TODOO LIST</header>
       <Search search={search} setSearch={setSearch}/>
       <br></br>
       <Additems 
