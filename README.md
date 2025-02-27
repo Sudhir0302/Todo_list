@@ -1,1 +1,3 @@
-A small tictac toe game to learn the fundamentals of react.js!!
+Todo List using react js
+
+Developing this helps to understand the concepts of react!!!
