@@ -2,23 +2,18 @@
   "items": [
     {
       "id": "1",
-      "checked": false,
+      "checked": true,
       "item": "Java"
     },
     {
       "id": "2",
-      "checked": false,
+      "checked": true,
       "item": "python"
     },
     {
       "id": "3",
-      "checked": false,
+      "checked": true,
       "item": "react"
-    },
-    {
-      "id": "31",
-      "checked": false,
-      "item": "c"
     }
   ]
 }
